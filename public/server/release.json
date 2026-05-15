@@ -1,8 +1,6 @@
 {
   "version": "0.0.38",
-  "available": true,
-  "updateMode": "docker-or-binary",
-  "manifest": "https://updates.porch.chat/server/release.json",
+  "releaseDate": "2026-05-15T19:09:38.674Z",
   "artifacts": [
     {
       "name": "porch-linux-x64",

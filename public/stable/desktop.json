@@ -1,0 +1,72 @@
+{
+  "version": "0.0.38",
+  "feedBaseUrl": "https://updates.porch.chat/desktop/",
+  "platforms": {
+    "windows": {
+      "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
+      "files": [
+        {
+          "name": "porch-0.0.38-windows-x64-setup.exe",
+          "path": "porch-0.0.38-windows-x64-setup.exe",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe",
+          "size": 100359255,
+          "sha256": "65c8c071b8dae6e1890907237be6b6c00204b16bdca81adae8947702c0e9b756"
+        },
+        {
+          "name": "porch-0.0.38-windows-x64-setup.exe.blockmap",
+          "path": "porch-0.0.38-windows-x64-setup.exe.blockmap",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe.blockmap",
+          "size": 105560,
+          "sha256": "38ba62da0dc738a39b30e1c9bf86028da17a16d8ad788fe93283a5ac2d9e7389"
+        },
+        {
+          "name": "builder-debug.yml",
+          "path": "builder-debug.yml",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/builder-debug.yml",
+          "size": 7437,
+          "sha256": "33378ca242e849a4fe13584092fc5567923169132edb8ae24ab3c347c8f12bb7"
+        },
+        {
+          "name": "latest.yml",
+          "path": "desktop/windows/latest.yml",
+          "url": "https://updates.porch.chat/desktop/windows/latest.yml",
+          "size": 500,
+          "sha256": "bd13b1635936b31c908de4b2be40a47a2e764fa46a65217bb1b48add19b953fb"
+        }
+      ]
+    },
+    "linux": {
+      "feed": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
+      "files": [
+        {
+          "name": "latest-linux.yml",
+          "path": "desktop/linux/latest-linux.yml",
+          "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
+          "size": 750,
+          "sha256": "8b553bf39dca790e7d20638d1e15b9b9de39db9321aab291bfda2d22b31d4518"
+        },
+        {
+          "name": "porch-0.0.38-linux-amd64.deb",
+          "path": "porch-0.0.38-linux-amd64.deb",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-amd64.deb",
+          "size": 95182380,
+          "sha256": "53af086147d05e94c26e3c5ef2777c0660f27ada17f20503a400a4b9a7fdc6e9"
+        },
+        {
+          "name": "builder-debug.yml",
+          "path": "builder-debug.yml",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/builder-debug.yml",
+          "size": 841,
+          "sha256": "c52c8dc7fbf1ced2490f485bd52ed4afad7f0d0b18c9c7ba794cbc8ff8b19aa3"
+        },
+        {
+          "name": "porch-0.0.38-linux-x86_64.AppImage",
+          "path": "porch-0.0.38-linux-x86_64.AppImage",
+          "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage",
+          "size": 120688301,
+          "sha256": "b15da9b8fedb340ab7f8a7e3a21d516d1d4e7ec8e6a5a7d2f75ae45137a24568"
+        }
+      ]
+    }
+  }
+}

@@ -8,28 +8,28 @@
       "name": "porch-linux-x64",
       "target": "linux-x64",
       "size": 115222656,
-      "checksum": "7d2b18f3bbdfb7a7b6853e0023c0c0adf5ee83462bcb00dd1776c5cccc454110",
+      "checksum": "a114350ada70ac6a1681e3cfe37ada04ee2f270dfab5b6916fd154d8b223f36b",
       "path": "porch-linux-x64",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-x64",
-      "sha256": "7d2b18f3bbdfb7a7b6853e0023c0c0adf5ee83462bcb00dd1776c5cccc454110"
+      "sha256": "a114350ada70ac6a1681e3cfe37ada04ee2f270dfab5b6916fd154d8b223f36b"
     },
     {
       "name": "porch-linux-arm64",
       "target": "linux-arm64",
       "size": 113682576,
-      "checksum": "1d7e0d92d5b0a0d6b0b0facf1e301c8ec9056301b35bfa1c92972b0ea0d9f90a",
+      "checksum": "0559b0c0ca54ec75ee6b762d62562f3f1644b27336736d1d2e87a3448e915268",
       "path": "porch-linux-arm64",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-arm64",
-      "sha256": "1d7e0d92d5b0a0d6b0b0facf1e301c8ec9056301b35bfa1c92972b0ea0d9f90a"
+      "sha256": "0559b0c0ca54ec75ee6b762d62562f3f1644b27336736d1d2e87a3448e915268"
     },
     {
       "name": "porch-windows-x64.exe",
       "target": "windows-x64",
       "size": 114374144,
-      "checksum": "13ea13e8e5499bf32086dfd4f7ae342607e6533b7b6348a77726cf6e44b14f0f",
+      "checksum": "972111f3ccf0f7f2e43bc3e83faf0cbbb5d63dcbcbc3de7a0a216c8df0ccc29f",
       "path": "porch-windows-x64.exe",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-windows-x64.exe",
-      "sha256": "13ea13e8e5499bf32086dfd4f7ae342607e6533b7b6348a77726cf6e44b14f0f"
+      "sha256": "972111f3ccf0f7f2e43bc3e83faf0cbbb5d63dcbcbc3de7a0a216c8df0ccc29f"
     }
   ]
 }

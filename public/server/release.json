@@ -1,42 +1,33 @@
 {
   "version": "0.0.38",
-  "releaseDate": "2026-05-15T19:09:38.674Z",
+  "releaseDate": "2026-05-15T19:17:50.084Z",
   "artifacts": [
     {
       "name": "porch-linux-x64",
       "target": "linux-x64",
       "size": 115222656,
-      "checksum": "1732b2792cce7c3cdd8fb8d53ea2ee65ae1506d0e59f7687c6e47c349dc20283",
+      "checksum": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8",
       "path": "porch-linux-x64",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-x64",
-      "sha256": "1732b2792cce7c3cdd8fb8d53ea2ee65ae1506d0e59f7687c6e47c349dc20283"
+      "sha256": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8"
     },
     {
       "name": "porch-linux-arm64",
       "target": "linux-arm64",
       "size": 113682576,
-      "checksum": "d427c7f340ad3b3b8a098de2009b8fe6a934d0ef69ae14c3c85d9a414b7487f8",
+      "checksum": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46",
       "path": "porch-linux-arm64",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-arm64",
-      "sha256": "d427c7f340ad3b3b8a098de2009b8fe6a934d0ef69ae14c3c85d9a414b7487f8"
+      "sha256": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46"
     },
     {
       "name": "porch-windows-x64.exe",
       "target": "windows-x64",
       "size": 114374144,
-      "checksum": "43e3f6bc2c51d0261eea594d02d077ac4aadecae53b3b498114d5e393bc5ef1c",
+      "checksum": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901",
       "path": "porch-windows-x64.exe",
       "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-windows-x64.exe",
-      "sha256": "43e3f6bc2c51d0261eea594d02d077ac4aadecae53b3b498114d5e393bc5ef1c"
-    },
-    {
-      "name": "porch-macos-arm64",
-      "target": "darwin-arm64",
-      "size": 81163490,
-      "checksum": "3059b31ca158d359b0fe5c697a2d28c4faee380c6ef23c3a5e9106c501f6bf4d",
-      "path": "porch-macos-arm64",
-      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-macos-arm64",
-      "sha256": "3059b31ca158d359b0fe5c697a2d28c4faee380c6ef23c3a5e9106c501f6bf4d"
+      "sha256": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901"
     }
   ]
 }

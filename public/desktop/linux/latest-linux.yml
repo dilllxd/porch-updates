@@ -1,12 +1,12 @@
-version: 0.0.44
+version: 0.0.45
 files:
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-linux-x86_64.AppImage
-    sha512: tP+3yFlCcw5MKxC2dn6q7AZXyFZ9bBw6gn7mQU9vh8z7AdIKTLy4+AG8+BLijqYgiptRkmRVgu1DXH5cvGFtEA==
-    size: 120688421
-    blockMapSize: 126777
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-linux-amd64.deb
-    sha512: OxWQ0F/ZghsxWCdoTBTdSX4hQGOn1yMnsC8VSF9Gf5d4TSO5P1+LFM93XmwHasChscPUYs2sPFrUI6uGSQHboA==
-    size: 95186524
-path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-linux-x86_64.AppImage
-sha512: tP+3yFlCcw5MKxC2dn6q7AZXyFZ9bBw6gn7mQU9vh8z7AdIKTLy4+AG8+BLijqYgiptRkmRVgu1DXH5cvGFtEA==
-releaseDate: '2026-05-15T22:51:58.639Z'
+  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-0.0.45-linux-x86_64.AppImage
+    sha512: fEVF+8sDqiUz2bNNgx7BIIiEorxKXa92YnbsMgGOwzVh4MntdebDjdeGvGZ4dSokKGl4YyEoCWzhW4XfGr72TQ==
+    size: 120688305
+    blockMapSize: 126661
+  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-0.0.45-linux-amd64.deb
+    sha512: QMo0ADvNJXUyqLRxC3P9Yk8Vd9ys3HizGjSMOIGAQidLgh2iqgNzBlMPRT0vK/Xyw6xybxNXx6SImS3We5v6Cg==
+    size: 95181164
+path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-0.0.45-linux-x86_64.AppImage
+sha512: fEVF+8sDqiUz2bNNgx7BIIiEorxKXa92YnbsMgGOwzVh4MntdebDjdeGvGZ4dSokKGl4YyEoCWzhW4XfGr72TQ==
+releaseDate: '2026-05-15T23:27:05.625Z'

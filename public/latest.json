@@ -1,20 +1,20 @@
 {
   "name": "Porch",
-  "version": "0.0.42",
+  "version": "0.0.44",
   "channel": "stable",
   "repo": "dilllxd/porch",
-  "generatedAt": "2026-05-15T20:47:17.360Z",
-  "commitSha": "fa5bb75aa98253ca851a4ad9b5d588ec6b9cbaec",
+  "generatedAt": "2026-05-15T22:55:14.201Z",
+  "commitSha": "9bb847aa3d5c0259f123ad76dacca2b4bd0d6484",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
-    "version": "0.0.42",
-    "buildId": "0.0.42-fa5bb75aa982",
-    "commitSha": "fa5bb75aa98253ca851a4ad9b5d588ec6b9cbaec",
+    "version": "0.0.44",
+    "buildId": "0.0.44-9bb847aa3d5c",
+    "commitSha": "9bb847aa3d5c0259f123ad76dacca2b4bd0d6484",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
   "server": {
-    "version": "0.0.42",
+    "version": "0.0.44",
     "available": true,
     "updateMode": "docker-or-binary",
     "manifest": "https://updates.porch.chat/server/release.json",
@@ -22,66 +22,66 @@
       {
         "name": "porch-linux-x64",
         "target": "linux-x64",
-        "size": 115341440,
-        "checksum": "bb6c6ef4e38899504a5217a13a670340c6056758108bc021a22e1e26bade9402",
+        "size": 115349632,
+        "checksum": "1e4b4aab36b441151b35c0b3deeea4d09086d0ed5a8ed7506a438c962f1954df",
         "path": "porch-linux-x64",
-        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-linux-x64",
-        "sha256": "bb6c6ef4e38899504a5217a13a670340c6056758108bc021a22e1e26bade9402"
+        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-linux-x64",
+        "sha256": "1e4b4aab36b441151b35c0b3deeea4d09086d0ed5a8ed7506a438c962f1954df"
       },
       {
         "name": "porch-linux-arm64",
         "target": "linux-arm64",
         "size": 113813648,
-        "checksum": "f7b3635d92b86fac1c6fccf9d5d35c3b4cb45640f2ae3ffbfb60373f4508e224",
+        "checksum": "ead54a6b605b485609fec675388d4c1da8441b76b9f06f949f49328c07d3e9f1",
         "path": "porch-linux-arm64",
-        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-linux-arm64",
-        "sha256": "f7b3635d92b86fac1c6fccf9d5d35c3b4cb45640f2ae3ffbfb60373f4508e224"
+        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-linux-arm64",
+        "sha256": "ead54a6b605b485609fec675388d4c1da8441b76b9f06f949f49328c07d3e9f1"
       },
       {
         "name": "porch-windows-x64.exe",
         "target": "windows-x64",
-        "size": 114495488,
-        "checksum": "f23d63706ef694f37a38218dc6ceb4bbb58f13a8d6f6a5ab45e91cfa205af79e",
+        "size": 114501632,
+        "checksum": "dd8d0d40798b1eef701967f7a0fde1faddc7e6dbeec2c03e8e29adf5cab288a6",
         "path": "porch-windows-x64.exe",
-        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-windows-x64.exe",
-        "sha256": "f23d63706ef694f37a38218dc6ceb4bbb58f13a8d6f6a5ab45e91cfa205af79e"
+        "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-windows-x64.exe",
+        "sha256": "dd8d0d40798b1eef701967f7a0fde1faddc7e6dbeec2c03e8e29adf5cab288a6"
       }
     ]
   },
   "desktop": {
-    "version": "0.0.42",
+    "version": "0.0.44",
     "feedBaseUrl": "https://updates.porch.chat/desktop/",
     "platforms": {
       "windows": {
         "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
         "files": [
           {
-            "name": "porch-0.0.42-windows-x64-setup.exe",
-            "path": "porch-0.0.42-windows-x64-setup.exe",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-0.0.42-windows-x64-setup.exe",
-            "size": 100361604,
-            "sha256": "26a30c449716429e0f0fc7f1d9d9fb91e312127f961a4d73be8e8969b4b9fcd7"
+            "name": "porch-0.0.44-windows-x64-setup.exe.blockmap",
+            "path": "porch-0.0.44-windows-x64-setup.exe.blockmap",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-windows-x64-setup.exe.blockmap",
+            "size": 105674,
+            "sha256": "81af6fe05cce90a646faca36a51713c975d41e9160d7c1b8f3b3a91125ee897d"
           },
           {
-            "name": "porch-0.0.42-windows-x64-setup.exe.blockmap",
-            "path": "porch-0.0.42-windows-x64-setup.exe.blockmap",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-0.0.42-windows-x64-setup.exe.blockmap",
-            "size": 105476,
-            "sha256": "a431b308b7395b09705d6e247f22af3adc46d20c2f6f61deb4502200372c2cf9"
+            "name": "porch-0.0.44-windows-x64-setup.exe",
+            "path": "porch-0.0.44-windows-x64-setup.exe",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-windows-x64-setup.exe",
+            "size": 100384108,
+            "sha256": "a19d801bec9505150ca2da10c36475a92b0ff19ef3aef0f454918c71d7bd356e"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/builder-debug.yml",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/builder-debug.yml",
             "size": 7437,
-            "sha256": "bb387bdb0d2acc78dbd5c15c6600bd94bb38866378a9a0798250d2cede3c2456"
+            "sha256": "7504590cbec852070dc26d0d32cbe13f21edfcd7d74bc5b397f405c2c8036edc"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 500,
-            "sha256": "d80960e0972929e19abb45755c10bbbdc21c10a613c6721b259704925236dbdf"
+            "sha256": "9d32b0acb67f6553cabe0bf55158a5c4ce864031521d37ca7049fd361a5c3634"
           }
         ]
       },
@@ -89,30 +89,30 @@
         "feed": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
         "files": [
           {
+            "name": "porch-0.0.44-linux-amd64.deb",
+            "path": "porch-0.0.44-linux-amd64.deb",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-linux-amd64.deb",
+            "size": 95186524,
+            "sha256": "b10f5fe0c096284e5cd3379adfc99d89feeae9331b537611a55b2cf93a06428a"
+          },
+          {
             "name": "latest-linux.yml",
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 750,
-            "sha256": "492582ff53447d54071f314c170bfccbc85e8ddc00690f56282a11783326b7ea"
+            "sha256": "131386556c561106d6e66cdae391c3348319c6de66f08e8618dcab361c37d6a4"
           },
           {
-            "name": "porch-0.0.42-linux-amd64.deb",
-            "path": "porch-0.0.42-linux-amd64.deb",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-0.0.42-linux-amd64.deb",
-            "size": 95186416,
-            "sha256": "03bc362b4d868f9d83687ebb337f251c919c3953d65d4d1a54fae0d13c086f7f"
-          },
-          {
-            "name": "porch-0.0.42-linux-x86_64.AppImage",
-            "path": "porch-0.0.42-linux-x86_64.AppImage",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/porch-0.0.42-linux-x86_64.AppImage",
-            "size": 120688111,
-            "sha256": "3e2ed8ba3502605ff69b53b4604ec46a5da91279acf5fc47da098b7805b6deef"
+            "name": "porch-0.0.44-linux-x86_64.AppImage",
+            "path": "porch-0.0.44-linux-x86_64.AppImage",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/porch-0.0.44-linux-x86_64.AppImage",
+            "size": 120688421,
+            "sha256": "d073ce90a8ceea04d4d56844c0808c4a71889f1a92912ac062d353a8de09b3ab"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.42/builder-debug.yml",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.44/builder-debug.yml",
             "size": 841,
             "sha256": "c52c8dc7fbf1ced2490f485bd52ed4afad7f0d0b18c9c7ba794cbc8ff8b19aa3"
           }

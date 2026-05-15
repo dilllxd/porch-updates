@@ -3,13 +3,13 @@
   "version": "0.0.38",
   "channel": "stable",
   "repo": "dilllxd/porch",
-  "generatedAt": "2026-05-15T19:21:45.556Z",
-  "commitSha": "c071ca1632192b913158201f0f9021b69f60de84",
+  "generatedAt": "2026-05-15T19:48:41.056Z",
+  "commitSha": "803b179e66732fa893c1d9d363d2de8711f5ddb3",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
     "version": "0.0.38",
-    "buildId": "0.0.38-c071ca163219",
-    "commitSha": "c071ca1632192b913158201f0f9021b69f60de84",
+    "buildId": "0.0.38-803b179e6673",
+    "commitSha": "803b179e66732fa893c1d9d363d2de8711f5ddb3",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
@@ -23,28 +23,28 @@
         "name": "porch-linux-x64",
         "target": "linux-x64",
         "size": 115222656,
-        "checksum": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8",
+        "checksum": "7d2b18f3bbdfb7a7b6853e0023c0c0adf5ee83462bcb00dd1776c5cccc454110",
         "path": "porch-linux-x64",
         "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-x64",
-        "sha256": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8"
+        "sha256": "7d2b18f3bbdfb7a7b6853e0023c0c0adf5ee83462bcb00dd1776c5cccc454110"
       },
       {
         "name": "porch-linux-arm64",
         "target": "linux-arm64",
         "size": 113682576,
-        "checksum": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46",
+        "checksum": "1d7e0d92d5b0a0d6b0b0facf1e301c8ec9056301b35bfa1c92972b0ea0d9f90a",
         "path": "porch-linux-arm64",
         "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-arm64",
-        "sha256": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46"
+        "sha256": "1d7e0d92d5b0a0d6b0b0facf1e301c8ec9056301b35bfa1c92972b0ea0d9f90a"
       },
       {
         "name": "porch-windows-x64.exe",
         "target": "windows-x64",
         "size": 114374144,
-        "checksum": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901",
+        "checksum": "13ea13e8e5499bf32086dfd4f7ae342607e6533b7b6348a77726cf6e44b14f0f",
         "path": "porch-windows-x64.exe",
         "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-windows-x64.exe",
-        "sha256": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901"
+        "sha256": "13ea13e8e5499bf32086dfd4f7ae342607e6533b7b6348a77726cf6e44b14f0f"
       }
     ]
   },
@@ -59,29 +59,36 @@
             "name": "porch-0.0.38-windows-x64-setup.exe",
             "path": "porch-0.0.38-windows-x64-setup.exe",
             "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe",
-            "size": 100358923,
-            "sha256": "f826b2ee561dae49a97247168d864d5afbb06485391d09d0cab12a4b22747f04"
+            "size": 100358659,
+            "sha256": "7eae8a8cc6c2adbc2600c33ec513652d681d1b29239646fafaade60d2bf1ffa5"
           },
           {
             "name": "porch-0.0.38-windows-x64-setup.exe.blockmap",
             "path": "porch-0.0.38-windows-x64-setup.exe.blockmap",
             "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe.blockmap",
-            "size": 105469,
-            "sha256": "9126616632772d71ae7ec33803428a9c48c790e0bf2a110285d8c0891ba34fcb"
+            "size": 105512,
+            "sha256": "41671e41827fd3c381914c771289cf209043ffddd8b7ef1e8bdd242844004327"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
             "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/builder-debug.yml",
-            "size": 7437,
-            "sha256": "b62084166b3813d250008fbce3e752bb807ce6d3b7d4d02f8f055b6549e87103"
+            "size": 6203,
+            "sha256": "9299819598a54e67c0901e41e79a801d607dd186a9e02d7b26bfeabfc834e211"
+          },
+          {
+            "name": "porch-0.0.38-windows-x64-portable.exe",
+            "path": "porch-0.0.38-windows-x64-portable.exe",
+            "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-portable.exe",
+            "size": 100131268,
+            "sha256": "a74322ec1d1280aa6f72ffed293d2d8b4cc6dceee416f140b88efc3ae9494b59"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 500,
-            "sha256": "69d5f2fa39516c9ce712dcc0351be0a42f30719f8ef47716ec8d2f7cfb5d4730"
+            "sha256": "9107ab79689608fa0552b88ada464cf785832fee569dc71719ff939b8ce33134"
           }
         ]
       },
@@ -93,14 +100,14 @@
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 750,
-            "sha256": "9796b16ff52176c275c17961f3a2cada16474246210f80fad7bc574e162392db"
+            "sha256": "f13ae1c1c31936669e23766e7da158c59f39958b5b545fbbdbf93528e6e41927"
           },
           {
             "name": "porch-0.0.38-linux-amd64.deb",
             "path": "porch-0.0.38-linux-amd64.deb",
             "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-amd64.deb",
-            "size": 95181708,
-            "sha256": "2309ca4ab680961c4cac594ff1eacff819cc2c0c24f9e8c5cac683446e391b6f"
+            "size": 95179688,
+            "sha256": "e3e01c02e448b087ba07e07b9c7bfdd7bba0298123edd6787b674916feb9ba25"
           },
           {
             "name": "builder-debug.yml",
@@ -113,8 +120,8 @@
             "name": "porch-0.0.38-linux-x86_64.AppImage",
             "path": "porch-0.0.38-linux-x86_64.AppImage",
             "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage",
-            "size": 120688302,
-            "sha256": "9b663fe10501602f714e07ac45614bfca19b39101ce8eae003deb5307b531ca7"
+            "size": 120688244,
+            "sha256": "13856cd3ee43c2c2f091eb2a106553d90c68d81079eb815e8415de80d164e8a5"
           }
         ]
       }

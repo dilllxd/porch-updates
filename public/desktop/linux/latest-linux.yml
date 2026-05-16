@@ -1,12 +1,12 @@
-version: 0.0.49
+version: 0.0.51
 files:
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.49/porch-0.0.49-linux-x86_64.AppImage
-    sha512: hyXOEptZn0EdiCxlI5uZQsPLSYU4pAOCSo3/8fnzO/C/Dsr7Q16Uodhs9dISKCZ2q7dDgd6XkDjEJ7i8/rPQ2A==
-    size: 120692206
-    blockMapSize: 126466
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.49/porch-0.0.49-linux-amd64.deb
-    sha512: s8Fs3kvz0kkjrSPUmYaEbAI4ODkXUc/AYF9BKSnyjPujEItZ6VR/SbGZGKCFGf3HI+AljXdgS5g5d+X66skqRw==
-    size: 95185292
-path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.49/porch-0.0.49-linux-x86_64.AppImage
-sha512: hyXOEptZn0EdiCxlI5uZQsPLSYU4pAOCSo3/8fnzO/C/Dsr7Q16Uodhs9dISKCZ2q7dDgd6XkDjEJ7i8/rPQ2A==
-releaseDate: '2026-05-16T02:26:18.480Z'
+  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.51/porch-0.0.51-linux-x86_64.AppImage
+    sha512: N3+dpuVKYiNFvk6zntAGIrOJGzECrov8jg6m27ujX5Ao3UrDy1ONvUUXj92g3kiFM0TlZaWtvjnDYFB9/UwbYw==
+    size: 120692254
+    blockMapSize: 126514
+  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.51/porch-0.0.51-linux-amd64.deb
+    sha512: cAiT/LAlEpabOSKNnV1ABkSP0NHtd9G6sdSue+fWQ6+3OW6MjkIW9CopkMIFwf5iCiHwDzw/InP7jkaMoNSbmg==
+    size: 95190432
+path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.51/porch-0.0.51-linux-x86_64.AppImage
+sha512: N3+dpuVKYiNFvk6zntAGIrOJGzECrov8jg6m27ujX5Ao3UrDy1ONvUUXj92g3kiFM0TlZaWtvjnDYFB9/UwbYw==
+releaseDate: '2026-05-16T03:26:44.348Z'

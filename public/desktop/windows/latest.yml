@@ -1,8 +1,8 @@
-version: 0.0.49
+version: 0.0.51
 files:
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.49/porch-0.0.49-windows-x64-setup.exe
-    sha512: DQL6phWVH10JdqWQ1EB/WbEVOxwkK+zQhXq14mlpg1gLGUaZJAZLRqg369NJfPLfOk+enh8xD65ncDwofIGbig==
-    size: 100388325
-path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.49/porch-0.0.49-windows-x64-setup.exe
-sha512: DQL6phWVH10JdqWQ1EB/WbEVOxwkK+zQhXq14mlpg1gLGUaZJAZLRqg369NJfPLfOk+enh8xD65ncDwofIGbig==
-releaseDate: '2026-05-16T02:28:46.685Z'
+  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.51/porch-0.0.51-windows-x64-setup.exe
+    sha512: GLgiEch92uOrxt0yv9dqt3bP9wEDp86qMef7laeMBkojM0sKJi6mYWw1++be5TkSXiEfP91JYDmIXQQqoM5P6w==
+    size: 100389828
+path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.51/porch-0.0.51-windows-x64-setup.exe
+sha512: GLgiEch92uOrxt0yv9dqt3bP9wEDp86qMef7laeMBkojM0sKJi6mYWw1++be5TkSXiEfP91JYDmIXQQqoM5P6w==
+releaseDate: '2026-05-16T03:29:53.310Z'

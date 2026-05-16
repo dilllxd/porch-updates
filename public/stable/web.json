@@ -1,7 +1,7 @@
 {
-  "version": "0.0.46",
-  "buildId": "0.0.46-7ed0c6f63e31",
-  "commitSha": "7ed0c6f63e317fb067c843837c44b0b278f3d0c7",
+  "version": "0.0.47",
+  "buildId": "0.0.47-492fb0d8483c",
+  "commitSha": "492fb0d8483cd3cc32372dcc5bc5ee1476bf93b1",
   "serviceWorker": "/sw.js",
   "updateMode": "service-worker"
 }

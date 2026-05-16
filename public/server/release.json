@@ -1,33 +1,33 @@
 {
-  "version": "0.0.45",
-  "releaseDate": "2026-05-15T23:25:47.696Z",
+  "version": "0.0.46",
+  "releaseDate": "2026-05-16T00:15:52.831Z",
   "artifacts": [
     {
       "name": "porch-linux-x64",
       "target": "linux-x64",
-      "size": 115353728,
-      "checksum": "dc20ba178bdc049af542da1042ad5f9ff3b723b47cc25d20d30d792cfd11e164",
+      "size": 115361920,
+      "checksum": "daad12e4c275c91b3760b7c39fa9485743676143111cbe4b6a68cb9f6c0d4809",
       "path": "porch-linux-x64",
-      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-linux-x64",
-      "sha256": "dc20ba178bdc049af542da1042ad5f9ff3b723b47cc25d20d30d792cfd11e164"
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.46/porch-linux-x64",
+      "sha256": "daad12e4c275c91b3760b7c39fa9485743676143111cbe4b6a68cb9f6c0d4809"
     },
     {
       "name": "porch-linux-arm64",
       "target": "linux-arm64",
-      "size": 113813648,
-      "checksum": "d8de9208deb75b3d1a0f475c6bb3e72c97cf0a3d2d2c26707f30b3dd3bb27277",
+      "size": 113879184,
+      "checksum": "b5d9d7bd89d5f69ab927c58ecc32e917973bf35c7eaec2499df24f23b88d40e0",
       "path": "porch-linux-arm64",
-      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-linux-arm64",
-      "sha256": "d8de9208deb75b3d1a0f475c6bb3e72c97cf0a3d2d2c26707f30b3dd3bb27277"
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.46/porch-linux-arm64",
+      "sha256": "b5d9d7bd89d5f69ab927c58ecc32e917973bf35c7eaec2499df24f23b88d40e0"
     },
     {
       "name": "porch-windows-x64.exe",
       "target": "windows-x64",
-      "size": 114504704,
-      "checksum": "3a0ffaaf9b6d8143e51b84cf2789e9fdd42aea42704ffe887a1ac0ff6f8101fb",
+      "size": 114513920,
+      "checksum": "fa46c9cdbc4cec926872a15337b53086d387340e93bd3f7e9ae5eff5fe337a07",
       "path": "porch-windows-x64.exe",
-      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.45/porch-windows-x64.exe",
-      "sha256": "3a0ffaaf9b6d8143e51b84cf2789e9fdd42aea42704ffe887a1ac0ff6f8101fb"
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.46/porch-windows-x64.exe",
+      "sha256": "fa46c9cdbc4cec926872a15337b53086d387340e93bd3f7e9ae5eff5fe337a07"
     }
   ]
 }
